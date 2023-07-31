@@ -8,7 +8,7 @@ public class Primitive {
 		long b= 123456789;
 		float i=28002f;
 		double q=25;
-		int z=67;
+		int z=82;
 		System.out.println(a);
 		System.out.println(n);
 		System.out.println(s);
