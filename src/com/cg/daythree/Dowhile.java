@@ -7,7 +7,7 @@ public class Dowhile {
 		        System.out.println(i);    
 		    i++;    
 		    }
-		    while(i<=6);    
+		    while(i<=4);    
 		}   
 
 }
